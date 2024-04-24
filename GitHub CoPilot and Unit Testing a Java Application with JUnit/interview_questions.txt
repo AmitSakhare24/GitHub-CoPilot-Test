@@ -1,0 +1,126 @@
+1. What is the purpose of using the this keyword?
+
+
+-------------------------------------------------------------------
+2. What is the purpose of using the super keyword?
+
+
+-------------------------------------------------------------------
+3. What is a static method in Java?
+
+
+-------------------------------------------------------------------
+4. What is an instance variable?
+
+
+-------------------------------------------------------------------
+5. Why would you want to make it so a class couldn't be inherited from?
+
+
+-------------------------------------------------------------------
+6. What are some examples of loops in Java?
+
+
+-------------------------------------------------------------------
+7. What does final do when used with a variable/method/class?
+
+
+-------------------------------------------------------------------
+8. Difference between static variable and final static variable?
+
+
+-------------------------------------------------------------------
+9. How do you create a subclass?
+
+
+-------------------------------------------------------------------
+10. What are public, private, and protected classes in Java?
+
+
+-------------------------------------------------------------------
+11. How does the finally keyword work?
+
+
+-------------------------------------------------------------------
+12. What is an anonymous class in Java?
+
+
+-------------------------------------------------------------------
+13. What is an immutable class in Java, and how do you create one?
+
+
+-------------------------------------------------------------------
+14. Can constructors be private, and if so, why would you use one?
+
+
+-------------------------------------------------------------------
+15. What can you tell me about scope in Java?
+
+
+-------------------------------------------------------------------
+16. What is the difference between composition and inheritance in object-oriented programming?
+
+
+-------------------------------------------------------------------
+17. Explain the concept of polymorphism in Java with an example.
+
+
+-------------------------------------------------------------------
+18. How does the Java Virtual Machine (JVM) work?
+
+
+-------------------------------------------------------------------
+19. Explain the concept of multithreading and synchronization in Java.
+
+
+-------------------------------------------------------------------
+20. What is the difference between checked and unchecked exceptions in Java?
+
+
+-------------------------------------------------------------------
+21. How does Java handle memory management and garbage collection?
+
+
+-------------------------------------------------------------------
+22. Explain the concept of reflection in Java and provide an example of its usage.
+
+
+-------------------------------------------------------------------
+23. What are the differences between the Java 8 Stream API and the traditional Java Collections API?
+
+
+-------------------------------------------------------------------
+24. What is the difference between shallow copy and deep copy in Java?
+
+
+-------------------------------------------------------------------
+25. How does Java support functional programming with the introduction of lambda expressions and functional interfaces?
+
+
+-------------------------------------------------------------------
+26. How does Java support parallel programming and what are some of the tools and libraries available for parallel computing in Java?
+
+
+-------------------------------------------------------------------
+27. Explain the concept of concurrency in Java and how it can be achieved using threads and synchronization.
+
+
+-------------------------------------------------------------------
+28. Explain the concept of generics in Java and provide an example of its usage.
+
+
+-------------------------------------------------------------------
+29. How does Java handle exceptions and what are some best practices for exception handling in Java?
+
+
+-------------------------------------------------------------------
+30. Explain the concept of annotations in Java and provide an example of its usage.
+
+
+
+
+
+
+
+
+
