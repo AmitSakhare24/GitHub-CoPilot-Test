@@ -9,5 +9,5 @@ Simply click the "code" button in the upper corner and if you are comfortable wi
 
 We'll need to then open each folder seperately to view as individual projects.  More on how to do this in the video series paired.
 
-The last project "Cucumber Java" is created by and credited to YouTube Channel, "Automation Step By Step", and YouTube Author, "Raghav Pal". Check out the link here for the full video playlist on creating this project from scratch, as it is a good hands-on refresher if you are not strong in Cucumber. 
+The last project "Selenium-Cucumber-BDD" is created by and credited to YouTube Channel, "Automation Step By Step", and YouTube Author, "Raghav Pal". Check out the link here for the full video playlist on creating this project from scratch, as it is a good hands-on refresher if you are not strong in Cucumber. 
 Video link: https://youtu.be/4e9vhX7ZuCw 
